@@ -10,7 +10,7 @@
 -  **API Routes** for seamless backend integration
 
 ##  Live Demo
-👉 [Devr.AI Next.js Frontend](https://devr-ai-next.vercel.app)
+👉 [Devr.AI Next.js Frontend](https://devr-ai-frontend.vercel.app/)
 
 ##  Tech Stack
 - **Next.js** – Optimized framework for Modern UI Components
